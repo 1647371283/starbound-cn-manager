@@ -25,7 +25,7 @@
 
 ## 下载
 
-到 [Releases](../../releases) 页面下载 `星界边境汉化管理器_v6.4.zip`。
+到 [Releases](../../releases) 页面下载 `Starbound_CN_Manager_v6.4.zip`。
 
 | 校验项 | 值 |
 |---|---|
