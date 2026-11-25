@@ -1,0 +1,6 @@
+*.zip
+*.pak
+*.exe
+._*
+Thumbs.db
+.DS_Store
